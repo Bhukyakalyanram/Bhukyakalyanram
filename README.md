@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhukya Kalyan ram</h1>
 <h3 align="center">A student and a passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhukyakalyanram" alt="bhukyakalyanram" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kalyanrambhukya" target="blank"><img src="https://img.shields.io/twitter/follow/kalyanrambhukya?logo=twitter&style=for-the-badge" alt="kalyanrambhukya" /></a> </p>
 
